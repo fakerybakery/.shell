@@ -2,5 +2,10 @@
  | This product was created by mrfakename. |
  |       https://www.mrfake.name/          |
  +-----------------------------------------+
- mrfakename banner last updated: Aug 12, 22.
+ |      Have you tried LinkShort yet?      |
+ |   It's the world's #1 link shortener!   |
+ |                                         |
+ |     Try it free at https://rdr.fyi/     |
+ +-----------------------------------------+
+ |        Last updated Sep 9, 2022.        |
  -------------------------------------------
